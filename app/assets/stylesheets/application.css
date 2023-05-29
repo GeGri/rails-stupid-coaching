@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+  .question{
+    border-left: 4px rgba(0, 0, 0, 0.378) solid;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+  }
+ .coach{
+  background-color: rgba(248, 226, 127, 0.329);
+  font-weight: bold;
+  padding: 10px 10px 10px 10px;
+  border-left: 4px rgba(0, 0, 0, 0.378) solid;
+  margin-bottom: 10px;
+ }
+ .italian{
+  font-style: italic;
+  font-weight:normal;
+ }
